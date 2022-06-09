@@ -1,0 +1,18 @@
+.r{
+    height:250px;
+    width: 300px;
+}
+#main{
+    height: 600px;
+    width: fit-content;
+}
+body{
+    font-family: 'Caveat', cursive;
+font-family: 'Cookie', cursive;
+font-family: 'Indie Flower', cursive;
+background: linear-gradient(navy, rgb(0, 53, 0));
+color:aliceblue;
+}
+#b1{
+    background-color:maroon ;
+}
